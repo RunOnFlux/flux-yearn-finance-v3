@@ -1,4 +1,4 @@
-name: Sync Fork2
+name: Sync Fork
 
 on: 
   workflow_dispatch:
